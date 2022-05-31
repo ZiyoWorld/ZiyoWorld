@@ -1,1 +1,1 @@
-### Hi there  I am Mirziyod Sunatillayev       <div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="480" src="https://giphy.com/embed/b8w2UKtIFcADoCmSJC/video" width="480"></iframe></div>
+### Hi there  I am Mirziyod Sunatillayev      
