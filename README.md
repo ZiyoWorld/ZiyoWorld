@@ -1,7 +1,9 @@
 ### Hi there  I am Mirziyod Sunatillayev     
 ### Html, Css, Bootstrap, Sass
 ### Javascript, ReactJs,
-### Tasks
+### Tasks,
+### Small projects are Android studion 
 
 I am posting here all the projects I have studied related to Frontend and the small projects. Shunaqa gaplar ....😎😎
+
 
