@@ -1,7 +1,7 @@
 ### Hi there  I am Mirziyod Sunatillayev     
 ### Html, Css, Bootstrap, Sass
-### Javascript, ReactJs,
-### Tasks,
+### Javascript, ReactJs, Redux-Toolkit 
+### Tasks, Projects,
 ### Small projects are Android studio
 ### Finally I'm doing real project. you can see it mir_houzing
 
