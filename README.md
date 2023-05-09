@@ -2,7 +2,7 @@
 ### Html, Css, Bootstrap, Sass
 ### Javascript, ReactJs, Redux-Toolkit 
 ### Tasks, Projects,
-### Small projects are Android studio
+### Small projects are Android studio and C# ASP.NET MVC and Core
 ### Finally I'm doing real project. you can see it mir_houzing
 
 **Languages and Tools:**  
