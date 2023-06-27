@@ -2,9 +2,8 @@
 ### Html, Css, Bootstrap, Sass
 ### Javascript, ReactJs, Redux-Toolkit 
 ### Tasks, Projects,
-### Small projects are Android studio and C# ASP.NET MVC and Core
-### Finally I'm doing real project. you can see it mir_houzing
-
+### Small projects are Android studio and C# ASP.NET Core
+MVC and ASP.NET MVC
 **Languages and Tools:**  
 
 <code><img height="20" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"></code>
